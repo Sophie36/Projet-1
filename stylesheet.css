@@ -1,0 +1,25 @@
+body{
+    background-color:grey;
+}
+
+header{
+    background-color:#BCD26E;
+    padding:15px;
+}
+
+header h1{
+    color:#8a2be2;
+}
+
+ul li{
+    list-style-type:none;
+}
+
+h2{
+    color:gray;
+}
+
+footer{
+    background-color:#4AC4FF;
+    padding:15px;
+}
