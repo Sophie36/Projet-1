@@ -1,2 +1,2 @@
 # Projet-1
-Site statique 
+Site statique avec les différents documents ayant servi à sa création
