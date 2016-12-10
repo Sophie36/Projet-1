@@ -18,12 +18,12 @@ ul li{
     margin: 0;
     text-align: center;
 }
-/* Je sÃ©lectionne les <li> du menu horizontal */
+/* Je selectionne les <li> du menu horizontal */
 #nav li { 
     display: inline;
     list-style: none;
 }
-/*Je centre mes diffÃ©rentes pages */
+/*Je centre mes differentes pages */
 #nav a {
     display:inline-block;
     margin: 0 10px;
