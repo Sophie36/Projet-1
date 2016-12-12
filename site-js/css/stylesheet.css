@@ -1,0 +1,49 @@
+body{
+    background-color:#D5E2E0;
+}
+
+header{
+    background-color:#25B9A5;
+    padding:15px;
+}
+
+/*Menu de navigation*/
+
+ul li{
+    list-style-type:none;
+}
+
+#nav {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+/* Je selectionne les <li> du menu horizontal */
+#nav li { 
+    display: inline;
+    list-style: none;
+}
+/*Je centre mes differentes pages */
+#nav a {
+    display:inline-block;
+    margin: 0 10px;
+}
+ul li a {
+    display:block;
+    float:center;   
+    width:100px;
+    line-height:50px; /*hauteur de l'image de fond*/
+    background:#4AC4FF repeat-x;
+    color:#DCDCDC;
+    text-decoration:none;
+    text-align:center;
+    color:black;
+    border-radius: 8px;
+ } 
+
+/*Pied de page*/
+
+footer{
+    background-color:#4AC4FF;
+    padding:15px;
+}
