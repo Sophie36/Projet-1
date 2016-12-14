@@ -195,6 +195,26 @@ body {
 }
 
 
+/*mise en forme du formulaire et de la géolocalisation*/
+
+.containerformulaire {
+    margin:120px;
+    padding:70px;
+}
+
+.containergeolocalisation {
+    
+}
+
+iframe
+{
+    display:inline-block;
+    vertical-align:top;
+    box-sizing:border-box;
+    
+}
+
+/*fin de la mise en forme de la géolocalisation*/
 /*Pied de page*/
 
 footer{
