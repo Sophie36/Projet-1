@@ -201,6 +201,7 @@ body {
 .containerformulaire {
     margin:120px;
     padding:70px;
+    width:600px;
 }
 
 .containergeolocalisation {
