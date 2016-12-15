@@ -59,7 +59,7 @@ header{
 .navbar-collapse li a {
     float: none;
     width:100px;
-    background:#4AC4FF;
+    background:#00E9C2;
     text-decoration:none;
     text-align:center;
     color:black !important;
@@ -87,6 +87,17 @@ header{
 }
 
 /*Fin Menu de navigation*/ 
+
+/*caroussel*/
+.carousel-caption {
+    top: 20px;
+    bottom: 134px;
+}
+
+h3 {
+        color: #00E9C2 !important;
+}
+/*Fin caroussel*/
 
 /*Pied de page*/
 
