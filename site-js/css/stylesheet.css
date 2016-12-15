@@ -8,8 +8,9 @@ header{
 }
 
 /*logo*/
-.logo {
-	margin-left: 460px
+.img-header{
+    display: block;
+    margin: auto;
 }
 /*fin logo*/
 
@@ -32,7 +33,7 @@ ul li{
 /*Je centre mes differentes pages */
 #nav a {
     display:inline-block;
-    margin: 0 10px;
+    margin: 0 20px;
 }
 ul li a {
     display:block;
