@@ -89,16 +89,29 @@ header{
 /*Fin Menu de navigation*/ 
 
 /*caroussel*/
+
 .carousel-caption {
-    top: 20px;
+    top: 140px;
     bottom: 134px;
 }
 
 h3 {
         color: #00E9C2 !important;
 }
+
+.carousel-indicators {
+    bottom:0px;
+}
+
 /*Fin caroussel*/
 
+/*contenu1*/
+
+.images h3 {
+    text-align:center !important;
+}
+
+/*fin contenu1*/
 /*Pied de page*/
 
 footer{
