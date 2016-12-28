@@ -112,6 +112,22 @@ h3 {
 }
 
 /*fin contenu1*/
+
+/*plan*/
+.titre {
+    text-align: center;
+    color: #000000;
+}
+
+.soustitre {
+    text-align: center !important;
+    padding: 50px !important;
+    margin-left: 150px !important;
+    margin-right:150px !important;
+    background-color: #00E9C2;
+}
+/*fin plan*/
+
 /*Pied de page*/
 
 footer{
